@@ -19,3 +19,8 @@ Create database name myblog in mysql
 
 open terminal of project run php artisan serve
 make sure your computer is connected to the internet
+
+
+
+![admin](https://user-images.githubusercontent.com/89970435/155537437-5d096292-f87a-41c2-bbb7-928891a753d0.JPG)
+![author](https://user-images.githubusercontent.com/89970435/155537507-be4bd1fe-a960-4a25-a7c8-5e4326e31bba.JPG)
